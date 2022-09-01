@@ -1,0 +1,25 @@
+*{
+    margin: 0px;
+    padding: 0px;
+}
+
+.container{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color:rgb(46, 46, 46);   
+    height: 100vh;
+}
+.outer{
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 2rem;
+    text-align:left;
+    margin: 40px auto;
+    color:#fff;
+    border-left: 3px solid #ed1f24;
+    padding: 20px;
+    box-shadow:0px 0px 100px 100px rgb(37, 37, 37) ;
+}
+.fullDate{
+    margin-bottom:1.2rem;
+}
